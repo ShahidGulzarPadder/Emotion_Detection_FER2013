@@ -1,0 +1,2 @@
+# Emotion_Detection_FER2013
+In this repository I have built and trained a multimodal deep neural network for emotion detection using tf.keras/pytorch. Here, I worked with the FER2013 dataset, which contains more than 28000 images. The images are automatically gathered, so there can be mislabeled or bad quality samples as well. Every image has a single label from the following list: Angry, Disgust, Fear, Happy, Sad, Surprise, Neutral.
